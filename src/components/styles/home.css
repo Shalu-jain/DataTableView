@@ -1,0 +1,233 @@
+.MuiPaper-elevation2 {
+    box-shadow: 0px 3px 1px -2px rgb(0 0 0 / 20%), 0px 2px 2px 0px rgb(0 0 0 / 14%), 0px 1px 5px 0px rgb(0 0 0 / 12%);
+    width: 87%;
+    margin: auto;
+}
+.MuiIconButton-root {
+    flex: 0 0 auto;
+    color: #4d4d8a;
+    padding: 3px !important;
+    overflow: visible;
+    font-size: 1.5rem;
+    text-align: center;
+    transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    border-radius: 50%;
+    background-color: #4d4d8a !important;
+    margin-left: 58px !important; 
+    width: 34px;
+    height: 34px;
+    margin-right: 61px !important;
+}
+
+.MuiIcon-root {
+    width: 1em;
+    height: 1em;
+    overflow: hidden;
+    font-size: 1.5rem;
+    flex-shrink: 0;
+    user-select: none;
+    color: white;
+}
+.MuiTableCell-paddingNone {
+    padding: 0;
+    width: 196px;
+}
+.MuiTypography-caption {
+    font-size: 0.75rem;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 400;
+    line-height: 1.66;
+    letter-spacing: 0.03333em;
+    text-align: center;
+    color: #4d4d8a;
+}
+.MTablePaginationInner-root-14 {
+    color: rgba(0, 0, 0, 0.54);
+    display: flex;
+    flex-shrink: 0;
+}
+.Component-paginationSelectRoot-4 {
+    margin: 0;
+    background-color: #4d4d8a;
+    color: white !important;
+}
+.MuiSelect-icon {
+    top: calc(50% - 12px);
+    color: white !important;
+    right: 0;
+    position: absolute;
+    pointer-events: none;
+}
+.MuiPaper-elevation2 {
+    box-shadow: 0px 3px 1px -2px rgb(77 77 138), 0px 2px 2px 0px rgb(77 77 138), 0px 1px 5px 0px rgb(77 77 138) !important;
+}
+.Component-paginationToolbar-2 {
+    width: 100%;
+    padding: 0;
+    background-color: #ececec;
+}
+
+.MuiTableSortLabel-icon {
+    opacity: 1 !important;
+    font-size: 18px;
+    transition: opacity 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,transform 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    margin-left: 4px;
+    user-select: none;
+    margin-right: 4px;
+    color: #4d4d8a !important;
+}
+[data-rbd-drag-handle-context-id="0"] {
+    cursor: -webkit-grab !important;
+    cursor: pointer !important;
+}
+.MuiTableSortLabel-root:hover {
+    color: #4d4d8a !important;
+}
+.MuiTableSortLabel-root {
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    flex-direction: inherit;
+    justify-content: flex-start;
+    color: #4d4d8a !important;
+    font-style: bold !important;
+    font-size: 17px !important;
+}
+.MuiPopover-paper {
+    outline: 0;
+    position: absolute;
+    max-width: calc(100% - 32px);
+    min-width: 16px;
+    max-height: calc(100% - 32px);
+    min-height: 16px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    /* top: 269px !important; */
+    background-color: #4d4d8a !important;
+    border-radius: 0px !important;
+    color: white !important;
+}
+.MuiInputBase-root {
+    color: rgba(0, 0, 0, 0.87);
+    padding-bottom: 6px;
+    cursor: text;
+    display: inline-flex;
+    position: relative;
+    font-size: 1rem;
+    box-sizing: border-box;
+    align-items: center;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 400;
+    line-height: 1.1876em;
+    letter-spacing: 0.00938em;
+}
+.MuiSelect-icon {
+    top: calc(38% - 12px) !important;
+    color: rgba(0, 0, 0, 0.54);
+    right: 0;
+    position: absolute;
+    pointer-events: none;
+}
+.MuiSelect-selectMenu {
+    height: 14px !important;
+    overflow: hidden;
+    min-height: 0.1876em !important;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.MuiIconButton-root.Mui-disabled {
+    color: rgba(0, 0, 0, 0.26);
+    background-color: grey !important;
+    cursor: no-drop !important;
+}
+.MuiButtonBase-root.Mui-disabled {
+    cursor: no-drop !important;
+    pointer-events: auto !important;
+}
+.material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    color: white !important;
+    font-size: 18px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    -webkit-font-feature-settings: 'liga';
+    -webkit-font-smoothing: antialiased;
+}
+.MuiIcon-root {
+    width: 1em;
+    height: 1em;
+    overflow: hidden;
+    font-size: 27px !important;
+    flex-shrink: 0;
+    user-select: none;
+}
+.MuiInput-root {
+    position: relative;
+    width: 318px;
+}
+.MuiPaper-elevation1 {
+    box-shadow: 0px 3px 1px -2px rgb(77 77 138), 0px 2px 2px 0px rgb(77 77 138), 0px 1px 5px 0px rgb(77 77 138) !important;
+}
+.MuiCard-root {
+    overflow: hidden;
+    width: 87%;
+    margin: auto;
+    padding: 44px;
+}
+.App{
+    margin-top: 20px;
+}
+.card{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.containerpadding{
+    margin-top: 20px;
+}
+.buttoncontainer{
+    text-align: right;
+    margin-right: 5.3% !important;
+}
+.buttondesign{
+    color: #212529 !important;
+    background-color: #ffc107;
+    border-color: #ffc107;
+    width: 94px;
+}
+.buttondesign:hover {
+    color: #212529 !important;
+    background-color: white; 
+    border: 2px solid #c69500; 
+}
+a:hover {
+    color: black;
+    text-decoration: none !important;
+}
+a {
+    color: white !important;
+    text-decoration: none;
+    background-color: transparent;
+}
+h2{
+    color: #4d4d8a;
+}
+.Component-paginationSelectRoot-18 {
+    margin: 0;
+    background-color: #4d4d8a;
+    color: white !important;
+}
+.Component-paginationSelectRoot-4 {
+    margin: 0;
+    height: 34px !important;
+}
+.MuiTableSortLabel-root.MuiTableSortLabel-active.MuiTableSortLabel-root.MuiTableSortLabel-active .MuiTableSortLabel-icon {
+    color: #4d4d8a !important;
+    opacity: 1 !important;
+}
